@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/tanishq/static/css/main.56928a62.css",
+    "main.js": "/tanishq/static/js/main.421037b5.js",
+    "static/media/cv.pdf": "/tanishq/static/media/cv.1676dcdc83730930d888.pdf",
+    "static/media/giphy.gif": "/tanishq/static/media/giphy.05f035b3a27b38553a6a.gif",
+    "static/media/me-about.jpg": "/tanishq/static/media/me-about.fb4452e7f286d3636ef9.jpg",
+    "static/media/portfolio5.png": "/tanishq/static/media/portfolio5.a82ae9a163c1ac5e3a07.png",
+    "static/media/header-img.svg": "/tanishq/static/media/header-img.84bf93eb20488a753440bf83d27db7bb.svg",
+    "static/media/portfolio2.jpg": "/tanishq/static/media/portfolio2.ae187bc4e43ae6dbc263.jpg",
+    "static/media/portfolio6.jpg": "/tanishq/static/media/portfolio6.72d1107e313049cf15a7.jpg",
+    "static/media/portfolio1.jpg": "/tanishq/static/media/portfolio1.f5e72352e5aa840702b8.jpg",
+    "static/media/portfolio3.jpg": "/tanishq/static/media/portfolio3.cbab42559fe73e73906f.jpg",
+    "static/media/portfolio4.jpg": "/tanishq/static/media/portfolio4.6bf60cbb8fe5f7d7af5d.jpg",
+    "static/media/contact-img.svg": "/tanishq/static/media/contact-img.87eac2b29352fa01abb2f9510ef6ac7e.svg",
+    "static/media/circuit-board.svg": "/tanishq/static/media/circuit-board.a62f72f69400649b03fc.svg",
+    "index.html": "/tanishq/index.html",
+    "main.56928a62.css.map": "/tanishq/static/css/main.56928a62.css.map",
+    "main.421037b5.js.map": "/tanishq/static/js/main.421037b5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.56928a62.css",
+    "static/js/main.421037b5.js"
+  ]
+}
